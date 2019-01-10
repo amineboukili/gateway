@@ -9,13 +9,13 @@ import org.springframework.stereotype.Component;
 @RefreshScope
 public class ApplicationPropertiesConfiguration {
 
-    private int limitDeProduits;
+    private int limitProducts;
 
-    public int getLimitDeProduits() {
-        return limitDeProduits;
+    public int getLimitProducts() {
+        return limitProducts;
     }
 
-    public void setLimitDeProduits(int limitDeProduits) {
-        this.limitDeProduits = limitDeProduits;
+    public void setLimitProducts(int limitProducts) {
+        this.limitProducts = limitProducts;
     }
 }
