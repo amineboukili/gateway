@@ -5,5 +5,5 @@ import {HttpClient} from '@angular/common/http';
 export class UserService {
 
   constructor(private http: HttpClient) {}
-  getUsers() {return this.http.get('/server/users'); }
+  getUsers() {return this.http.get('http://localhost:9009/Users'); }
 }

@@ -1,15 +1,9 @@
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (0, 'Bougie fonctionnant au feu', 'bougie qui fonctionne comme une ampoule mais sans électricité !', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/bougies.jpg', 22.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (1, 'Chaise pour s''assoire', 'Chaise rare avec non pas 1 ni 2 mais 3 pieds', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/chaise.jpg', 95.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (2, 'Cheval pour nains', 'Ce cheval ne portera certainement pas blanche neige, mais sans problème les nains', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/cheval.jpg', 360.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (3, 'Coq of steel, le superman des volailles', 'Ne passe pas au four', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/coq.jpg', 620.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (4, 'Flacon à frotter avec un génie dedans', 'Vous donne droit à l''équivalent de 3/0 voeux', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/flacon.jpg', 1200.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (5, 'Horloge quantique', 'Donne l''heure, les minutes et même les secondes. Ne fait pas de café', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/horloge.jpg', 180.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (6, 'Table d''opération pour Hamsters', 'Pour réaliser vos opérations chirugicales sur votre Hamster!', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/table.jpg', 210.0);
-
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (7 , 'Vase ayant appartenu a Zeus', 'Risque de choc électrique', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/vase.jpg', 730.0);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (1, 'msa', 'michael.santos@dcinex.com', 'Michaël', 'Santos', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (2, 'jla', 'jean-marie.lallouet@dcinex.com', 'Jean-Marie', 'Lallouet', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (3, 'gge', 'georges.gerard@ymagis.com', 'Georges', 'Gérard', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (4, 'zad', 'zoltan.adam@cinemanext.com', 'Zoltán', 'Ádám', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (5, 'aad', 'aliaksandr.aduyenka@cinemanext.com', 'Aliaksandr', 'Aduyenka', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (6, 'jjalfaro', 'juanjose.alfaro@cinemanext.com', 'Juan Jose', 'Alfaro', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (7, 'valfonso', 'vicent.alfonso@cinemanext.com', 'Vicent', 'Alfonso Castelló', 1, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (8, 'kalinc', 'kenan.alinc@cinemanext.com', 'Kenan', 'Alinc', 0, null, null, null, null, null, null);
+INSERT INTO USER (ID, USER_LOGIN, USER_EMAIL, USER_FIRSTNAME, USER_LASTNAME, USER_ENABLE, DBLOG_ADD_USER_ID, DBLOG_ADD_DATE, DBLOG_UPD_USER_ID, DBLOG_UPD_DATE, USER_LANGUAGE, IDENTITY_USER_ID) VALUES (9, 'rac', 'regis.ancion@cinemanext.com', 'Régis', 'Ancion', 1, null, null, null, null, null, null);

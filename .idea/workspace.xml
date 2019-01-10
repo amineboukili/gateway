@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a62a3d-7982-4e38-b2b2-976ad8eeb03e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server-repo" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-repo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/users/users.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/users/users.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-commandes/target/" />
     <ignored path="$PROJECT_DIR$/microservice-paiement/target/" />
@@ -53,18 +60,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationPropertiesConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MusersApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/MusersApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,10 +75,36 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="1110">
+              <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationPropertiesConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,16 +115,77 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="microservice-users.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="microservice-users.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-users.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/data.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="179" selection-start-line="1" selection-start-column="179" selection-end-line="1" selection-end-column="179" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="182">
+              <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -112,7 +194,7 @@
         <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +205,8 @@
       <file leaf-file-name="microservice-produits.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="84" lean-forward="true" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -137,8 +219,8 @@
       <file leaf-file-name="microservice-materials.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-materials.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="163">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -162,11 +244,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>groupMat</find>
-      <find>APP_JAR_VERSION</find>
-      <find>mater</find>
-      <find>full-layout.routes</find>
-      <find>m</find>
       <find>setBasePath</find>
       <find>sidebar-routes.config</find>
       <find>tables</find>
@@ -192,10 +269,21 @@
       <find>useFactory</find>
       <find>sleu</find>
       <find>prod</find>
+      <find>ADM_USERS</find>
+      <find>USER_ID</find>
+      <find>LALLOUET</find>
+      <find>private String</find>
+      <find>;</find>
     </findStrings>
     <replaceStrings>
       <replace>Of</replace>
       <replace>MATERIAL</replace>
+      <replace>USER</replace>
+      <replace>ID</replace>
+      <replace>&lt;td&gt;{{user.</replace>
+      <replace>}}&lt;/td&gt;</replace>
+      <replace>&lt;th&gt;</replace>
+      <replace>&lt;/th&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -209,11 +297,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config-server/Dockerfile" />
-        <option value="$PROJECT_DIR$/clientui/Dockerfile" />
-        <option value="$PROJECT_DIR$/microservice-produits/Dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/microservice-materials/src/main/java/com/mmaterials/web/controller/MaterialController.java" />
         <option value="$PROJECT_DIR$/microservice-partners/src/main/java/com/mpartners/web/controller/PartnerController.java" />
         <option value="$PROJECT_DIR$/microservice-addresses/src/main/java/com/maddresses/web/controller/AddressController.java" />
         <option value="$PROJECT_DIR$/clientgw/GruntFile.js" />
@@ -256,10 +339,15 @@
         <option value="$PROJECT_DIR$/microservice-users/src/test/java/com/mproduits/MusersApplicationTests.java" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" />
+        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" />
+        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" />
+        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java" />
+        <option value="$PROJECT_DIR$/gwui/src/app/users/users.component.html" />
       </list>
     </option>
   </component>
@@ -274,6 +362,9 @@
       <expand />
       <select />
     </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/gwui/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
@@ -297,33 +388,29 @@
           <expand>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="config-server-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -331,7 +418,7 @@
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -340,7 +427,7 @@
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -349,22 +436,31 @@
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="musers" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-produits" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="musers" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,7 +478,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-users" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gwui" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -391,7 +487,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/angular-class-app/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/gwui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -421,7 +517,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MproduitsApplication_9002">
+  <component name="RunManager" selected="Spring Boot.MusersApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -440,6 +536,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="angular-class-app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="ClientuiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="clientui" />
@@ -496,6 +602,8 @@
     <configuration name="MusersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="musers" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.musers.MusersApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9009" />
+      <option name="ALTERNATIVE_JRE_PATH" />
     </configuration>
     <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="zuul-server" />
@@ -557,12 +665,12 @@
       <workItem from="1545648909010" duration="29312000" />
       <workItem from="1545743871653" duration="33543000" />
       <workItem from="1546592684746" duration="24469000" />
-      <workItem from="1546936054771" duration="42631000" />
+      <workItem from="1546936054771" duration="50745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156542000" />
+    <option name="totallyTimeSpent" value="164656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -591,7 +699,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.2831661" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19590482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24792473" />
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
@@ -603,6 +711,42 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.53400224" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2831661" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32887402" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24792473" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32903227" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.22357498" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -624,59 +768,17 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/_core/services/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-server/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/materials/materials.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="92" column="32" lean-forward="true" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/environments/environment.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/materials/materials.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/_core/core.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -850,13 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-produits/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -913,13 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -947,25 +1035,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2847#2848#0" expanded="true" />
-            <element signature="e#2887#2888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-partners.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-addresses.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-users.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-materials.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="195">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-users/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -981,56 +1164,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="1110">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="125">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="179" selection-start-line="1" selection-start-column="179" selection-end-line="1" selection-end-column="179" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-partners.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-materials.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-addresses.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="84" lean-forward="true" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-users.properties">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -1084,7 +1238,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>musers</last-edited>
+          <last-edited>gwui</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

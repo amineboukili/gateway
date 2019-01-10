@@ -1,6 +1,7 @@
 package com.musers.model;
 
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
@@ -17,12 +18,15 @@ public class User {
     private String userFirstname;
     private String userLastname;
     private String userEnable;
-    private long dblogAddUserId;
+    @Column(nullable = true)
+    private Long dblogAddUserId;
     private Date dblogAddDate;
-    private long dblogUpdUserId;
+    @Column(nullable = true)
+    private Long dblogUpdUserId;
     private Date dblogUpdDate;
     private String userLanguage;
-    private long identityUserId;
+    @Column(nullable = true)
+    private Long identityUserId;
 
 
     public User() {
@@ -90,11 +94,11 @@ public class User {
         this.userEnable = userEnable;
     }
 
-    public long getDblogAddUserId() {
+    public Long getDblogAddUserId() {
         return dblogAddUserId;
     }
 
-    public void setDblogAddUserId(long dblogAddUserId) {
+    public void setDblogAddUserId(Long dblogAddUserId) {
         this.dblogAddUserId = dblogAddUserId;
     }
 
@@ -106,11 +110,11 @@ public class User {
         this.dblogAddDate = dblogAddDate;
     }
 
-    public long getDblogUpdUserId() {
+    public Long getDblogUpdUserId() {
         return dblogUpdUserId;
     }
 
-    public void setDblogUpdUserId(long dblogUpdUserId) {
+    public void setDblogUpdUserId(Long dblogUpdUserId) {
         this.dblogUpdUserId = dblogUpdUserId;
     }
 
@@ -130,11 +134,11 @@ public class User {
         this.userLanguage = userLanguage;
     }
 
-    public long getIdentityUserId() {
+    public Long getIdentityUserId() {
         return identityUserId;
     }
 
-    public void setIdentityUserId(long identityUserId) {
+    public void setIdentityUserId(Long identityUserId) {
         this.identityUserId = identityUserId;
     }
 

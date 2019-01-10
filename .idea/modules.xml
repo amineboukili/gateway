@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/angular-class-app/angular-class-app.iml" filepath="$PROJECT_DIR$/angular-class-app/angular-class-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/clientgw/clientgw.iml" filepath="$PROJECT_DIR$/clientgw/clientgw.iml" />
       <module fileurl="file://$PROJECT_DIR$/clientui/clientui.iml" filepath="$PROJECT_DIR$/clientui/clientui.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
