@@ -1,0 +1,101 @@
+version: "3"
+
+services:
+
+  postgres:
+    image: postgres:10
+    ports:
+      - '5432:5432'
+    restart: always
+    environment:
+            POSTGRES_USER: vapor_username
+            POSTGRES_DB: vapor_database
+            POSTGRES_PASSWORD: vapor_password
+    volumes:
+      - ./postgres-initdb.sh:/docker-entrypoint-initdb.d/init.sh
+
+  # CONFIGURATION SERVICE
+  config-server:
+    container_name: config-server
+    build:
+          context: ./config-server
+          dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+
+  # DISCOVERY SERVICE
+  eureka-service:
+    build:
+      context: ./eureka-service
+      dockerfile: Dockerfile
+    ports:
+      - "8761:8761"
+    depends_on:
+    - config-server
+
+  # API GATEWAY
+  zuul-server:
+    build:
+      context: ./zuul-server
+      dockerfile: Dockerfile
+    ports:
+      - 8765:8765
+    depends_on:
+      - config-server
+  
+  # SERVICES
+  articles:
+    build:
+      context: ./article-service
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    depends_on:
+      - discovery
+
+  catalog-service:
+        container_name: catalog-service
+        build: ./catalog-service
+        ports:
+          - "18181:8181"
+          - "19797:8787"
+        depends_on:
+          - config-server
+          - postgres
+
+  catalog-service_two:
+      container_name: catalog-service
+      build: ./catalog-service
+      ports:
+        - "18181:8181"
+        - "19797:8787"
+      depends_on:
+        - config-server
+        - postgres
+
+  articles_two:
+    build:
+      context: ./article-service
+      dockerfile: Dockerfile
+    ports:
+      - 9080:8080
+    depends_on:
+      - discovery
+
+  authors:
+    build:
+      context: ./author-service
+      dockerfile: Dockerfile
+    ports:
+      - 8081:8081
+    depends_on:
+      - discovery
+
+  authors_two:
+    build:
+      context: ./author-service
+      dockerfile: Dockerfile
+    ports:
+      - 9081:8081
+    depends_on:
+      - discovery

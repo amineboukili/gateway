@@ -1,0 +1,27 @@
+Component
+---------
+
+/gwui/src/app/users/users.component.html
+/gwui/src/app/users/users.component.scss
+/gwui/src/app/users/users.component.ts
+/gwui/src/app/users/users.module.ts
+/gwui/src/app/users/users-routing.module.ts
+
+Service :
+---------
+
+/gwui/src/app/services/user/user.service.ts
+
+proxy
+-----
+
+/gwui/proxy.conf.json
+/gwui/package.json
+
+Routers
+-------
+
+/gwui/src/app/shared/routes/full-layout.routes.ts
+/gwui/src/app/shared/sidebar/sidebar-routes.config.ts
+
+

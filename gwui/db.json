@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Tarik",
+      "lastName": "ABARGHAZ",
+      "gender": "Male",
+      "email": "tarikabarghaz@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Amine",
+      "lastName": "Boukili",
+      "gender": "Male",
+      "email": "amineboukili@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular-class-app/angular-class-app.iml" filepath="$PROJECT_DIR$/angular-class-app/angular-class-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientgw/clientgw.iml" filepath="$PROJECT_DIR$/clientgw/clientgw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientui/clientui.iml" filepath="$PROJECT_DIR$/clientui/clientui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gwui/gwui.iml" filepath="$PROJECT_DIR$/gwui/gwui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-addresses/maddresses.iml" filepath="$PROJECT_DIR$/microservice-addresses/maddresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/microservice-commandes/mcommandes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-materials/mmaterials.iml" filepath="$PROJECT_DIR$/microservice-materials/mmaterials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-paiement/mpaiement.iml" filepath="$PROJECT_DIR$/microservice-paiement/mpaiement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-partners/mpartners.iml" filepath="$PROJECT_DIR$/microservice-partners/mpartners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-produits/mproduits.iml" filepath="$PROJECT_DIR$/microservice-produits/mproduits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-users/musers.iml" filepath="$PROJECT_DIR$/microservice-users/musers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>
