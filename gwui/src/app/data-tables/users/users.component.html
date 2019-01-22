@@ -1,0 +1,65 @@
+<!--Extended Table starts-->
+<div class="row">
+  <div class="col-12">
+    <div class="content-header">Users</div>
+    <p class="content-sub-header">Display all information of users</p>
+  </div>
+</div>
+<section id="extended">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="card">
+        <div class="card-header">
+          <h4 class="card-title">List of users</h4>
+        </div>
+        <div class="card-body">
+          <div class="card-block">
+            <table class="table table-responsive text-center">
+              <thead>
+              <tr>
+                <th>#</th>
+                <th></th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Login</th>
+                <th>Email</th>
+                <th>Enabled</th>
+                <th>Actions</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr *ngFor="let user of users">
+                <td>
+                  <label class="custom-control custom-checkbox m-0">
+                    <input type="checkbox" class="custom-control-input">
+                    <span class="custom-control-indicator"></span>
+                  </label>
+                </td>
+                <td>{{user.id}}</td>
+                <td>{{user.userFirstname}}</td>
+                <td>{{user.userLastname}}</td>
+                <td>{{user.userLogin}}</td>
+                <td>{{user.userEmail}}</td>
+                <td>{{user.userEnable}}</td>
+                <td>
+                  <a class="info p-0" data-original-title="" title="">
+                    <i class="ft-user font-medium-3 mr-2"></i>
+                  </a>
+                  <a class="success p-0" data-original-title="" title="">
+                    <i class="ft-edit-2 font-medium-3 mr-2"></i>
+                  </a>
+                  <a class="danger p-0" data-original-title="" title="">
+                    <i class="ft-x font-medium-3 mr-2"></i>
+                  </a>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Extended Table Ends-->
+

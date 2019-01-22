@@ -19,40 +19,28 @@
               <tr>
                 <th>#</th>
                 <th></th>
-                <th>userLogin</th>
-                <th>userEmail</th>
-                <th>userFirstname</th>
-                <th>userLastname</th>
-                <th>userEnable</th>
-                <th>dblogAddUserId</th>
-                <th>dblogAddDate</th>
-                <th>dblogUpdUserId</th>
-                <th>dblogUpdDate</th>
-                <th>userLanguage</th>
-                <th>identityUserId</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Login</th>
+                <th>Email</th>
+                <th>Enabled</th>
                 <th>Actions</th>
               </tr>
               </thead>
               <tbody>
               <tr *ngFor="let user of users">
+                <td>{{user.id}}</td>
                 <td>
                   <label class="custom-control custom-checkbox m-0">
                     <input type="checkbox" class="custom-control-input">
                     <span class="custom-control-indicator"></span>
                   </label>
                 </td>
-                <td>{{user.id}}</td>
-                <td>{{user.userLogin}}</td>
-                <td>{{user.userEmail}}</td>
                 <td>{{user.userFirstname}}</td>
                 <td>{{user.userLastname}}</td>
+                <td>{{user.userLogin}}</td>
+                <td>{{user.userEmail}}</td>
                 <td>{{user.userEnable}}</td>
-                <td>{{user.dblogAddUserId}}</td>
-                <td>{{user.dblogAddDate}}</td>
-                <td>{{user.dblogUpdUserId}}</td>
-                <td>{{user.dblogUpdDate}}</td>
-                <td>{{user.userLanguage}}</td>
-                <td>{{user.identityUserId}}</td>
                 <td>
                   <a class="info p-0" data-original-title="" title="">
                     <i class="ft-user font-medium-3 mr-2"></i>
