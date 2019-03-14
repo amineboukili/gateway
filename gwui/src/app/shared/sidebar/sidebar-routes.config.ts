@@ -15,7 +15,7 @@ export const ROUTES: RouteInfo[] = [
     { path: '/taskboard', title: 'Task Board', icon: 'ft-file-text', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
     { path: '/player', title: 'Player', icon: 'ft-music', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
     // Add Router Info for user
-    { path: '/users', title: 'Users', icon: 'ft-user', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
+    //{ path: '/users', title: 'Users', icon: 'ft-user', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
 
     {
         path: '', title: 'UI Kit', icon: 'ft-aperture', class: 'has-sub', badge: '', badgeClass: '', isExternalLink: false,
@@ -127,6 +127,16 @@ export const ROUTES: RouteInfo[] = [
             { path: '/datatables/selection', title: 'Selection', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
             { path: '/datatables/sorting', title: 'Sorting', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] }
         ]
+    },
+    {
+      path: '', title: 'Gateway Administration', icon: 'ft-layout', class: 'has-sub', badge: '', badgeClass: '', isExternalLink: false,
+      submenu: [
+        { path: '/admingateway/users', title: 'Users', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
+        { path: '/admingateway/roles', title: 'Roles', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
+        { path: '/admingateway/departements', title: 'Departements', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
+        { path: '/admingateway/rights', title: 'Rights', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] },
+        { path: '/admingateway/jobs', title: 'Jobs', icon: '', class: '', badge: '', badgeClass: '', isExternalLink: false, submenu: [] }
+      ]
     },
     {
         path: '', title: 'Cards', icon: 'ft-layers', class: 'has-sub', badge: '', badgeClass: '', isExternalLink: false, submenu: [

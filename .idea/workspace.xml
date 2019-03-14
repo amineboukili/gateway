@@ -2,15 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a62a3d-7982-4e38-b2b2-976ad8eeb03e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server-repo" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-repo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gwui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gwui/src/app/users/users.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/users/users.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/shared/routes/full-layout.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/shared/routes/full-layout.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwui/src/app/shared/sidebar/sidebar-routes.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gwui/src/app/shared/sidebar/sidebar-routes.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/MadmingwApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/MadmingwApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/ApplicationPropertiesConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/ApplicationPropertiesConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/RestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/RestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/SleuthConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SleuthConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/RoleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/RoleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/exceptions/DepartmentNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/DepartmentNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/exceptions/RoleNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/RoleNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/exceptions/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/musers/MusersApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-users/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-users/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-commandes/target/" />
     <ignored path="$PROJECT_DIR$/microservice-paiement/target/" />
@@ -23,6 +45,8 @@
     <ignored path="$PROJECT_DIR$/microservice-addresses/target/" />
     <ignored path="$PROJECT_DIR$/microservice-partners/target/" />
     <ignored path="$PROJECT_DIR$/microservice-users/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-admin-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,32 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gwui/src/app/app.module.ts">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="e#1#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MusersApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/MusersApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="390">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,11 +75,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java">
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/RoleDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/DepartmentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,10 +127,10 @@
         </entry>
       </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+            <state relative-caret-position="735">
+              <caret line="49" column="6" selection-start-line="43" selection-start-column="4" selection-end-line="49" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,60 +138,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationPropertiesConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+      <file leaf-file-name="RoleController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/RoleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="1830">
+              <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/bootstrap.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="microservice-users.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-users.properties">
+      <file leaf-file-name="DepartmentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/DepartmentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/data.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="179" selection-start-line="1" selection-start-column="179" selection-end-line="1" selection-end-column="179" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="113" column="24" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="users.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.ts">
+        <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -158,43 +181,64 @@
         <entry file="file://$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RestConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java">
+      <file leaf-file-name="DepartmentNotFoundException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/DepartmentNotFoundException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <file leaf-file-name="RoleNotFoundException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/RoleNotFoundException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java">
+      <file leaf-file-name="UserNotFoundException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/UserNotFoundException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Department.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ApplicationPropertiesConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/ApplicationPropertiesConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -202,32 +246,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="microservice-produits.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
+      <file leaf-file-name="SleuthConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SleuthConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="120">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="microservice-partners.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-partners.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="microservice-materials.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-materials.properties">
+      <file leaf-file-name="RestConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/RestConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="120">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="microservice-addresses.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-addresses.properties">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -236,33 +270,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Interface" />
         <option value="TypeScript File" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>setBasePath</find>
-      <find>sidebar-routes.config</find>
-      <find>tables</find>
-      <find>Form</find>
-      <find>materials</find>
-      <find>PlayerComponent</find>
-      <find>PlayerRoutingModule</find>
-      <find>MaterialsComponent</find>
-      <find>full-layou</find>
-      <find>form</find>
-      <find>form&gt;</find>
-      <find>&lt;form</find>
-      <find>settings</find>
-      <find>editButtonContent</find>
-      <find>confirmCreate</find>
       <find>confirmDelete</find>
       <find>getAll</find>
       <find>MAX_</find>
-      <find>user</find>
       <find>UserService</find>
       <find>pass</find>
       <find>passw</find>
@@ -272,19 +291,48 @@
       <find>ADM_USERS</find>
       <find>USER_ID</find>
       <find>LALLOUET</find>
-      <find>private String</find>
+      <find />
       <find>;</find>
+      <find>com.musers.</find>
+      <find>com.admingw.</find>
+      <find>_</find>
+      <find>users</find>
+      <find>users.module</find>
+      <find>/datatables/basic</find>
+      <find>editing</find>
+      <find>datatables/sorting</find>
+      <find>ADM_DEPARTMENTS</find>
+      <find>DEPARTMENT_ID</find>
+      <find>User</find>
+      <find>user</find>
+      <find>department</find>
+      <find>département</find>
+      <find>userDao</find>
+      <find>swa</find>
     </findStrings>
     <replaceStrings>
       <replace>Of</replace>
       <replace>MATERIAL</replace>
       <replace>USER</replace>
-      <replace>ID</replace>
       <replace>&lt;td&gt;{{user.</replace>
       <replace>}}&lt;/td&gt;</replace>
       <replace>&lt;th&gt;</replace>
       <replace>&lt;/th&gt;</replace>
+      <replace>admingw</replace>
+      <replace>com.admingw.</replace>
+      <replace />
+      <replace>com.madmingw.</replace>
+      <replace>DEPARTMENT</replace>
+      <replace>ID</replace>
+      <replace>Department</replace>
+      <replace>department</replace>
+      <replace>Role</replace>
+      <replace>role</replace>
+      <replace>rôle</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/microservice-admin-gateway</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -297,57 +345,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/microservice-partners/src/main/java/com/mpartners/web/controller/PartnerController.java" />
-        <option value="$PROJECT_DIR$/microservice-addresses/src/main/java/com/maddresses/web/controller/AddressController.java" />
-        <option value="$PROJECT_DIR$/clientgw/GruntFile.js" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/mcommerce/zuulserver/ZuulServerApplication.java" />
-        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/mcommerce/zuulserver/configurations/GlobalRepositoryRestConfigurer.java" />
-        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configurations/GlobalRepositoryRestConfigurer.java" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials-routing.module.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials.component.scss" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials.component.spec.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/partners/partners.module.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/partners/partners-routing.module.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/shared/data/smart-data-table.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/shared/routes/full-layout.routes.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/shared/sidebar/sidebar-routes.config.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/models/user.model.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/models/material.model.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/shared/customizer/customizer.component.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/resolvers/users-count.resolver.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/services/material.service.ts" />
-        <option value="$PROJECT_DIR$/gwui/tslint.json" />
-        <option value="$PROJECT_DIR$/angular-class-app/src/app/_core/resolvers/users-count.resolver.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/services/material-http.service.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/services/material-mock.service.ts" />
-        <option value="$PROJECT_DIR$/angular-class-app/src/environments/environment.ts" />
-        <option value="$PROJECT_DIR$/angular-class-app/src/app/login/login.component.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials.component.html" />
-        <option value="$PROJECT_DIR$/config-server-repo/microservice-materials.properties" />
-        <option value="$PROJECT_DIR$/gwui/src/environments/environment.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials.component.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/materials/materials.module.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/resolvers/materials-count.resolver.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/resolvers/materials.resolver.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/_core/core.module.ts" />
-        <option value="$PROJECT_DIR$/gwui/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/microservice-addresses/src/main/resources/data.sql" />
-        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/microservice-produits/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/configurations/SleuthConfig.java" />
-        <option value="$PROJECT_DIR$/microservice-users/Dockerfile" />
-        <option value="$PROJECT_DIR$/microservice-users/src/test/java/com/mproduits/MusersApplicationTests.java" />
-        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" />
-        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java" />
         <option value="$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/config-server-repo/microservice-produits.properties" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/resources/data.sql" />
-        <option value="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" />
         <option value="$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java" />
         <option value="$PROJECT_DIR$/gwui/src/app/users/users.component.html" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/Departement.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/Role.java" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/shared/routes/full-layout.routes.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/data-tables/data-tables-routing.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/data-tables/users/users.component.html" />
+        <option value="$PROJECT_DIR$/gwui/src/app/shared/sidebar/sidebar-routes.config.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/departements/departements.component.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/services/department/department.service.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/admin-gateway-routing.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/services/role/role.service.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/roles/roles.component.ts" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/admin-gateway.module.ts" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.html" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/departements/departements.component.html" />
+        <option value="$PROJECT_DIR$/gwui/src/app/admin-gateway/roles/roles.component.html" />
+        <option value="$PROJECT_DIR$/config-server-repo/microservice-admingw.properties" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/madmingw/service/UserServiceImplMockTest.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/madmingw/MadmingwApplicationTests.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/MadmingwApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/madmingw/service/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/model/User.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/web/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/RestConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/service/UserService.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/RoleDao.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/SleuthConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/configurations/ApplicationPropertiesConfiguration.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SwaggerConfig.java" />
       </list>
     </option>
   </component>
@@ -380,92 +428,101 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="musers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="musers" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
               <item name="configurations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="musers" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-users" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="musers" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-admin-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="madmingw" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,7 +535,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gwui" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SOAP/spring-boot-soap-service/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -486,24 +545,63 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/gwui/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.madmingw.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gwui/src/app/admin-gateway" />
+      <recent name="$PROJECT_DIR$/gwui/src/app/data-tables" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gwui/src/app/services" />
+      <recent name="$PROJECT_DIR$/config-server-repo" />
+      <recent name="$PROJECT_DIR$/gwui/src/app" />
+      <recent name="$PROJECT_DIR$/gwui/src/app/admin-gateway" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.madmingw.service" />
+      <recent name="com.madmingw.dao" />
+      <recent name="com.madmingw.web.exceptions" />
+      <recent name="com.madmingw.web.controller" />
+      <recent name="com.madmingw.model" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.clientui.exceptions" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.mproduits.configurations" />
-      <recent name="com.mmaterials.model" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/config-server-repo" />
-      <recent name="$PROJECT_DIR$/gwui/src/app/_core/resolvers" />
-      <recent name="$PROJECT_DIR$/gwui/src/app/_core/services" />
-      <recent name="$PROJECT_DIR$/gwui/src/app/_core/models" />
-      <recent name="$PROJECT_DIR$/gwui/src/app" />
-    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9008" />
+          <option name="urlPath" value="/Users" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -517,9 +615,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MusersApplication">
+  <component name="RunManager" selected="Spring Boot.MadmingwApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="UserServiceImplMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="madmingw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madmingw.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madmingw.service" />
+      <option name="MAIN_CLASS_NAME" value="com.madmingw.service.UserServiceImplMockTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceImplMockTest.shouldReturnUser_whenGetUserByIdIsCalled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="madmingw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madmingw.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madmingw.service" />
+      <option name="MAIN_CLASS_NAME" value="com.madmingw.service.UserServiceImplMockTest" />
+      <option name="METHOD_NAME" value="shouldReturnUser_whenGetUserByIdIsCalled" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="madmingw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madmingw.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.madmingw.service" />
+      <option name="MAIN_CLASS_NAME" value="com.madmingw.service.UserServiceImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -568,6 +735,12 @@
     <configuration name="MaddressesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="maddresses" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.maddresses.MaddressesApplication" />
+    </configuration>
+    <configuration name="MadmingwApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="madmingw" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ymagis.madmingw.MadmingwApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=9008" />
+      <option name="ALTERNATIVE_JRE_PATH" />
     </configuration>
     <configuration name="McommandesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mcommandes" />
@@ -643,10 +816,17 @@
       <item itemvalue="Spring Boot.MpartnersApplication" />
       <item itemvalue="Spring Boot.MaddressesApplication" />
       <item itemvalue="Spring Boot.MusersApplication" />
+      <item itemvalue="Spring Boot.MadmingwApplication" />
+      <item itemvalue="JUnit.UserServiceImplMockTest.shouldReturnUser_whenGetUserByIdIsCalled" />
+      <item itemvalue="JUnit.UserServiceImplMockTest" />
+      <item itemvalue="JUnit.UserServiceImplTest" />
       <item itemvalue="Spring Boot.ClientuiApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserServiceImplTest" />
+        <item itemvalue="JUnit.UserServiceImplMockTest" />
+        <item itemvalue="JUnit.UserServiceImplMockTest.shouldReturnUser_whenGetUserByIdIsCalled" />
         <item itemvalue="Spring Boot.ClientuiApplication" />
       </list>
     </recent_temporary>
@@ -665,87 +845,133 @@
       <workItem from="1545648909010" duration="29312000" />
       <workItem from="1545743871653" duration="33543000" />
       <workItem from="1546592684746" duration="24469000" />
-      <workItem from="1546936054771" duration="50745000" />
+      <workItem from="1546936054771" duration="50832000" />
+      <workItem from="1547627902873" duration="34174000" />
+      <workItem from="1548156146052" duration="52039000" />
+      <workItem from="1549638214819" duration="1180000" />
+      <workItem from="1550222155580" duration="3956000" />
+      <workItem from="1550849413829" duration="2855000" />
+      <workItem from="1551225495118" duration="1248000" />
+      <workItem from="1551692254075" duration="9304000" />
+      <workItem from="1552472563249" duration="4040000" />
+      <workItem from="1552495063221" duration="2021000" />
+      <workItem from="1552521501259" duration="1474000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 26m 23s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 31m 01s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 31m 28s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 32m 20s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 33m 45s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 36m 47s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 37m 45s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 40m 24s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 53m 01s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest - 2019.02.07 at 00h 53m 59s.xml">
+      <configuration name="UserServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164656000" />
+    <option name="totallyTimeSpent" value="277034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="933" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.22357498" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.27168795" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="TypeScript" order="15" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32887402" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32516128" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32903227" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.53400224" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46580645" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2831661" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24792473" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28129032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33370227" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32982844" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.41677418" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.41677418" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="TypeScript" order="15" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.53400224" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46580645" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="7" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2831661" />
-      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28129032" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32887402" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32516128" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24792473" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32903227" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.22357498" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.27168795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32982844" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32982844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -774,415 +1000,403 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/ymagis/madmingw/service/UserServiceImplTest.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/ymagis/madmingw/service/UserServiceImplTest.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="18" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="appProperties.getLimitUsers()" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/_core/core.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/services/user.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/services/material.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/services/user-http.service.ts">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/RestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/environments/environment.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/node_modules/@angular/core/src/metadata/ng_module.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1872">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/services/material-http.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/resolvers/users.resolver.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/main/_shared/user/user.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/main/_shared/user-list/user-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/src/app/main/_shared/main-shared.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/resolvers/materials-count.resolver.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/resolvers/materials.resolver.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/materials/materials.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/_core/core.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="e#1#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-addresses/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/SleuthConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/zuul-server.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-addresses/src/main/resources/data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1017" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-class-app/db.json">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/departements/departements.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/services/role/role.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="180">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/test/java/com/musers/MusersApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/roles/roles.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/model/Product.java">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/tables/extended/extended-table.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="109" column="26" lean-forward="true" selection-end-line="109" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/departements/departements.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/roles/roles.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/mcommerce/eurekaserver/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/dao/UserDao.java">
+    <entry file="file://$PROJECT_DIR$/microservice-materials/src/test/java/com/mmaterials/MmaterialsApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/SleuthConfig.java">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/madmingw/UserService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="283">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="269" selection-start-line="2" selection-start-column="204" selection-end-line="2" selection-end-column="269" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-partners.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-addresses.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/ymagis/madmingw/service/UserServiceImplMockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-produits/src/main/java/com/musers/web/controller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/ymagis/madmingw/MadmingwApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
+        <state relative-caret-position="135">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-produits.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-users.properties">
+    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-materials.properties">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        <state relative-caret-position="240">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/web/controller/UserController.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+        <state relative-caret-position="145">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.1.0/junit-platform-commons-1.1.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/test/java/com/ymagis/madmingw/service/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="119" column="22" selection-start-line="119" selection-start-column="22" selection-end-line="119" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/ApplicationPropertiesConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/admin-gateway-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="165">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/admin-gateway.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/node_modules/@angular/router/router.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret column="11295" selection-start-column="11295" selection-end-column="11295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server-repo/microservice-admingw.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/MadmingwApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.ts">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/model/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/RoleDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SleuthConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/RestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/ApplicationPropertiesConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/DepartmentNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/RoleNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/exceptions/UserNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="6" selection-start-line="43" selection-start-column="4" selection-end-line="49" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/web/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="113" column="24" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gwui/src/app/admin-gateway/users/users.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gwui/src/app/services/user/user.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/configurations/RestConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/MusersApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/java/com/musers/model/User.java">
+    <entry file="file://$PROJECT_DIR$/microservice-admin-gateway/src/main/java/com/ymagis/madmingw/configurations/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+        <state relative-caret-position="390">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gwui/src/app/users/users.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-users/src/main/resources/data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="179" selection-start-line="1" selection-start-column="179" selection-end-line="1" selection-end-column="179" />
         </state>
       </provider>
     </entry>
@@ -1238,7 +1452,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gwui</last-edited>
+          <last-edited>madmingw</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

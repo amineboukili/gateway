@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "userLogin": "msa",
+    "userEmail": "michael.santos@dcinex.com",
+    "userFirstname": "Michaël",
+    "userLastname": "Santos",
+    "userEnable": "1",
+    "dblogAddUserId": null,
+    "dblogAddDate": null,
+    "dblogUpdUserId": null,
+    "dblogUpdDate": null,
+    "userLanguage": null,
+    "identityUserId": null
+  },
+  {
+    "id": 2,
+    "userLogin": "jla",
+    "userEmail": "jean-marie.lallouet@dcinex.com",
+    "userFirstname": "Jean-Marie",
+    "userLastname": "Lallouet",
+    "userEnable": "1",
+    "dblogAddUserId": null,
+    "dblogAddDate": null,
+    "dblogUpdUserId": null,
+    "dblogUpdDate": null,
+    "userLanguage": null,
+    "identityUserId": null
+  },
+  {
+    "id": 3,
+    "userLogin": "gge",
+    "userEmail": "georges.gerard@ymagis.com",
+    "userFirstname": "Georges",
+    "userLastname": "Gérard",
+    "userEnable": "1",
+    "dblogAddUserId": null,
+    "dblogAddDate": null,
+    "dblogUpdUserId": null,
+    "dblogUpdDate": null,
+    "userLanguage": null,
+    "identityUserId": null
+  },
+  {
+    "id": 4,
+    "userLogin": "zad",
+    "userEmail": "zoltan.adam@cinemanext.com",
+    "userFirstname": "Zoltán",
+    "userLastname": "Ádám",
+    "userEnable": "1",
+    "dblogAddUserId": null,
+    "dblogAddDate": null,
+    "dblogUpdUserId": null,
+    "dblogUpdDate": null,
+    "userLanguage": null,
+    "identityUserId": null
+  },
+  {
+    "id": 5,
+    "userLogin": "aad",
+    "userEmail": "aliaksandr.aduyenka@cinemanext.com",
+    "userFirstname": "Aliaksandr",
+    "userLastname": "Aduyenka",
+    "userEnable": "1",
+    "dblogAddUserId": null,
+    "dblogAddDate": null,
+    "dblogUpdUserId": null,
+    "dblogUpdDate": null,
+    "userLanguage": null,
+    "identityUserId": null
+  }
+]

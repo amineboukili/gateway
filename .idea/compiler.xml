@@ -10,6 +10,7 @@
         <module name="config-server" />
         <module name="eureka-server" />
         <module name="maddresses" />
+        <module name="madmingw" />
         <module name="mcommandes" />
         <module name="mmaterials" />
         <module name="mpaiement" />
@@ -24,6 +25,7 @@
       <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="maddresses" target="1.8" />
+      <module name="madmingw" target="1.8" />
       <module name="mcommandes" target="1.8" />
       <module name="mmaterials" target="1.8" />
       <module name="mpaiement" target="1.8" />

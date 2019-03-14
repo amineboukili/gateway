@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwui/gwui.iml" filepath="$PROJECT_DIR$/gwui/gwui.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-addresses/maddresses.iml" filepath="$PROJECT_DIR$/microservice-addresses/maddresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-admin-gateway/madmingw.iml" filepath="$PROJECT_DIR$/microservice-admin-gateway/madmingw.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/microservice-commandes/mcommandes.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-materials/mmaterials.iml" filepath="$PROJECT_DIR$/microservice-materials/mmaterials.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-paiement/mpaiement.iml" filepath="$PROJECT_DIR$/microservice-paiement/mpaiement.iml" />

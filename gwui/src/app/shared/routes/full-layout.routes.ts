@@ -32,6 +32,10 @@ export const Full_ROUTES: Routes = [
     loadChildren: './data-tables/data-tables.module#DataTablesModule'
   },
   {
+    path: 'admingateway',
+    loadChildren: './admin-gateway/admin-gateway.module#AdminGatewayModule'
+  },
+  {
     path: 'uikit',
     loadChildren: './ui-kit/ui-kit.module#UIKitModule'
   },
@@ -66,9 +70,5 @@ export const Full_ROUTES: Routes = [
   {
     path: 'player',
     loadChildren: './player/player.module#PlayerModule'
-  },
-  {
-    path: 'users',
-    loadChildren: './users/users.module#UsersModule'
   }
 ];
